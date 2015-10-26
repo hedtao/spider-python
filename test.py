@@ -6,7 +6,7 @@ from zhihu import User
 def person_attention(url,person_name):
     return#搜索与某人关注的话题
 def main():
-    name = '董园'
+    name = 'xxx'
     type ='people'
     #search = Search()
     #search.get_person_detail(type,name)
